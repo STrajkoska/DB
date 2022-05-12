@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Z3Vuc05yb3Nlcw==\bXAz\R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7515252</Metadata>
+    <Metadata name="Source">Guns N' Roses - Don't Cry.mp3</Metadata>
+    <Metadata name="SourceFile">R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3</Metadata>
+    <Metadata name="mp3">Guns N' Roses - Don't Cry</Metadata>
+    <Metadata name="srcurl">R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Guns N' Roses - Don't Cry</Metadata>
+    <Metadata name="Identifier">HASH016ca6aaad50e0798044d4d6</Metadata>
+    <Metadata name="lastmodified">1620922026</Metadata>
+    <Metadata name="lastmodifieddate">20210513</Metadata>
+    <Metadata name="oailastmodified">1620922086</Metadata>
+    <Metadata name="oailastmodifieddate">20210513</Metadata>
+    <Metadata name="assocfilepath">HASH016c.dir</Metadata>
+    <Metadata name="gsdlassocfile">R3VucyBOJyBSb3NlcyAtIERvbid0IENyeQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

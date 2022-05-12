@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Z3Vuc05yb3Nlcw==\bXAz\R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">13366471</Metadata>
+    <Metadata name="Source">Guns N' Roses - November Rain.mp3</Metadata>
+    <Metadata name="SourceFile">R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3</Metadata>
+    <Metadata name="mp3">Guns N' Roses - November Rain</Metadata>
+    <Metadata name="srcurl">R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3</Metadata>
+    <Metadata name="srclinkFile">R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Guns N' Roses - November Rain</Metadata>
+    <Metadata name="Identifier">HASHaa85d82cb830ab5ed6048f</Metadata>
+    <Metadata name="lastmodified">1620922022</Metadata>
+    <Metadata name="lastmodifieddate">20210513</Metadata>
+    <Metadata name="oailastmodified">1620922086</Metadata>
+    <Metadata name="oailastmodifieddate">20210513</Metadata>
+    <Metadata name="assocfilepath">HASHaa85.dir</Metadata>
+    <Metadata name="gsdlassocfile">R3VucyBOJyBSb3NlcyAtIE5vdmVtYmVyIFJhaW4=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
